@@ -1,0 +1,9 @@
+C:\Projects\CILab.Tests\bin\Debug\CILab.Tests.dll
+C:\Projects\CILab.Tests\bin\Debug\CILab.Tests.pdb
+C:\Projects\CILab.Tests\bin\Debug\FakeItEasy.dll
+C:\Projects\CILab.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\CILab.Tests\bin\Debug\FakeItEasy.xml
+C:\Projects\CILab.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\CILab.Tests\obj\Debug\CILab.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\CILab.Tests\obj\Debug\CILab.Tests.dll
+C:\Projects\CILab.Tests\obj\Debug\CILab.Tests.pdb
